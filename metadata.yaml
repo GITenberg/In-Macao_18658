@@ -1,0 +1,30 @@
+_repo: In-Macao_18658
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gunnison, Charles A.
+    birthdate: 1861
+    deathdate: 1897
+    gutenberg_agent_id: '8175'
+    url: http://www.gutenberg.org/2009/agents/8175
+description: California -- In Macao -- My sapphire ring -- The hen that could lay
+  and lie.
+gutenberg_issued: '2006-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: California -- In Macao -- My Sapphire Ring -- The Hen That Could
+  Lay and Lie -- "Oceanic" at Sea
+title: In Macao
+url: http://www.gutenberg.org/ebooks/18658
