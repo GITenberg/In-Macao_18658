@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8175
 description: California -- In Macao -- My sapphire ring -- The hen that could lay
   and lie.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18658#In-Macao
 gutenberg_issued: '2006-06-22'
 gutenberg_type: Text
 identifiers:
